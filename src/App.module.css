@@ -1,0 +1,19 @@
+#root {
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 2rem;
+	text-align: center;
+}
+
+.input {
+	padding: 10px;
+	font-size: 14px;
+	display: block;
+	width: 100%;
+	box-sizing: border-box;
+	background: #f3dfd0;
+	border: none;
+	border-radius: 10px;
+	outline: none;
+	color: black;
+}
